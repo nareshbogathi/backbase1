@@ -21,3 +21,4 @@ Note
 
 The IP addresses were obtained in the previous step with the “kubectl get nodes” command
 
+![alt text](./img.png)
